@@ -60,12 +60,19 @@ You can try and edit the request handler response in the **HelloWorldEmbedded** 
 
 
 ## Contributing to the project
-1. Make your intended changes on your locally cloned repository.
-2. Add a new branch with a meaningful name indicating your change (i.e. Add-Unit-Tests).
-2. *Commit* the changes and *Push* the commit to your forked repository on GitHub.
-3. Ensure the changes on the commit pushed to your GitHub fork are correct.
-4. Create a [pull request](https://help.github.com/articles/about-pull-requests/) requesting to merge the commits on your fork to this repository.
-5. Write a very conscise but informative pull request message. Remember to use your words wisely!
+```Step 1: Fork this project.```: 
+Go to the top right of the project page and click on "Fork". A clone of this repo will be created on your GitHub account.
+ 
+ ```Step 2: Code your changes```: 
+Create a new branch, and create/edit files as per your coding requirements. Ensure that your code is clean and efficient, and avoid redundancies. It is also advised to follow naming conventions as and where specified. Also make sure that your code is your own, and is not closed-source or stolen.
+
+```Step 3: Commit and send a Pull Request (PR)```: 
+Once you are done coding the changes, commit the files and create a PR. Click on "Compare across forks" when creating the PR, and select the master branch of this repo as the base. Set the head to your branch on your fork. Click on the button "Create Pull Request". Give your PR a meaningful title and a brief message explaining the purpose of your commits.
+
+```Step 4: Ensuring code quality```: 
+Once a PR has been created, check if it can be merged without any issues. If there are any issues, repeat from ```Step 2```. Wait for a reviewer to cross check your changes, and then merge your changes.
+
+Keep contributing!
 
 
 ## Addtional Learning
